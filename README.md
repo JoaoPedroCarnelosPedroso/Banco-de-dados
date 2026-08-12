@@ -1,15 +1,16 @@
 # Banco-de-dados
 
-ssh:Faz com que vamos para o terminal do linux
+(ssh): Faz com que vamos para o terminal do linux
 
-mysql -u joao.pedroso -p:Vai para o banco de dados mariaDB
+(mysql -u joao.pedroso -p): Vai para o banco de dados mariaDB
 
-show databases:mostra a base de dados
+show databases: mostra a base de dados
 
 ‘;’: OBRIGATÓRIO PARA USAR EM TUDO (FINAL DE FRASE)
 
 como montar uma tabela:
-![Descrição da imagem](imagem 1)
+[Banco de dados 1](imagem.png)
+
 outro exemplo:
 
 Select * from usuarios: exibe os dados da tabela
