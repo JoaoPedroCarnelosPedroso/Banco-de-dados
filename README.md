@@ -28,9 +28,9 @@ update (nome da tabela) set nome = ‘JP’: esse atauliza os dados da tabela ma
 <img width="472" height="136" alt="Banco 4" src="https://github.com/user-attachments/assets/75f5b9c7-09ed-451c-8793-9597ccdcb42a" />
 <img width="422" height="142" alt="banco d6" src="https://github.com/user-attachments/assets/dc5d7c0d-5c43-41e9-8d6c-054bdd1b3b51" />
 
-Describe(nome da tabelas): descreve as tabelas criadas
-
 delete from (nome da tabela): Apaga os DADOS da tabela
+
+Describe(nome da tabelas): descreve as tabelas criadas
 
 <img width="420" height="114" alt="banco 8" src="https://github.com/user-attachments/assets/75f4145c-a371-47ce-912e-cfba0da48176" />
 
