@@ -34,13 +34,13 @@ Describe(nome da tabelas): descreve as tabelas criadas
 
 <img width="420" height="114" alt="banco 8" src="https://github.com/user-attachments/assets/75f4145c-a371-47ce-912e-cfba0da48176" />
 
-update usuarios set nome = ‘joao pedro’ where id =3:muda o nome onde o id está
+update usuarios set nome = ‘joao pedro’ where id =3:muda o nome e onde o id está
 
 <img width="455" height="419" alt="banco 7" src="https://github.com/user-attachments/assets/8144ded9-2539-4497-a762-25f79b571c7f" />
 
 Use Db_joao.pedroso(nome da database)
 
-usada para criar taelas nela.
+usada para criar tabelas nela.
 
 insert  into alunos (nome,endereço,email) values (‘rosana’, Rua taltaltal’,Flores@gmail.com
 
